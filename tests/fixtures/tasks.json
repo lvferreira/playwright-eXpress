@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "To Read a Typescript Book",
+		"is_done": false
+    },
+    "duplicate": {
+        "name": "To Read a Node.js Book",
+		"is_done": false
+    },
+    "required": {
+        "name": "",
+		"is_done": false
+    },
+    "update": {
+        "name": "To Read a Javascript Book",
+		"is_done": false
+    },
+    "delete": {
+        "name": "To Read a Ruby Book",
+		"is_done": false
+    }
+}

@@ -1,0 +1,9 @@
+// Dado que eu tenho uma nova tarefa
+// E que estou na página de cadastro
+// Quando faço o cadastro dessa tarefa
+// Então essa tarefa deve ser exibida na lista
+
+// Given I have a new task
+// And I'm on the registration page
+// When I register with this task
+// Then this task must be displayed on the list
